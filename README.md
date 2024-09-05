@@ -12,4 +12,4 @@
 - 캐글
 - 데이콘
 ### Our Story
-- notion: https://www.notion.so/DA-study-03e0cd21613f489782ee573561a0fcc8
+- notion: https://www.notion.so/DA-study-ae8fce9e75c94598be2968b26b64451c
